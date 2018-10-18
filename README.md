@@ -1,6 +1,6 @@
 # Lightkicker
 
-<img src="/Picture/Pause.jpg " alt="Bild-Pausemodus" width="200"/>
+<img src="/Picture/Pause.jpg " alt="Bild-Pausemodus" width="400"/>
 
 ## Material
 - Arduino Mega
@@ -11,5 +11,5 @@
 
 ## Schaltplan (Beispiel)
 
-<img src="/Picture/Kickern_Steckplatine.jpg" alt="Bild-Schaltplan" width="200"/>
+<img src="/Picture/Kickern_Steckplatine.jpg" alt="Bild-Schaltplan" width="400"/>
 
